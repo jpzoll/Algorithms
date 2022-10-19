@@ -56,3 +56,4 @@ def seizeTreasure(treasure, capacity):
     return res
         
 print(seizeTreasure(myTreasure, northFaceCapacity))
+# 23.18 is our answer, which is correct!
